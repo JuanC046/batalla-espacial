@@ -7,6 +7,10 @@
 - Enemigos.
 - Conteo de vida.
 
+## Cómo jugar
+- Muévete con las flechas de tu teclado
+- Dispara con la barra espaciadora
+
 ## Requisitos
 - Python 3
 - Pygame
