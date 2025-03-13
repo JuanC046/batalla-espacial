@@ -15,7 +15,7 @@
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu_usuario/batalla-espacial.git
+    git clone https://github.com/JuanC046/batalla-espacial.git
     cd batalla-espacial
     ```
 
